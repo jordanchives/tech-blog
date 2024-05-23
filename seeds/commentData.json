@@ -1,0 +1,52 @@
+[
+  {
+    "content": "Great explanation on closures! It really helped me understand the concept better.",
+    "user_id": 2,
+    "post_id": 1
+  },
+  {
+    "content": "Node.js is indeed a game-changer for web development. Thanks for the introduction!",
+    "user_id": 1,
+    "post_id": 2
+  },
+  {
+    "content": "CSS Grid has been a lifesaver for my recent projects. Excellent article!",
+    "user_id": 3,
+    "post_id": 3
+  },
+  {
+    "content": "I'm still a bit confused about closures. Could you provide more examples?",
+    "user_id": 3,
+    "post_id": 1
+  },
+  {
+    "content": "React is amazing! This guide helped me get started with my first project.",
+    "user_id": 5,
+    "post_id": 4
+  },
+  {
+    "content": "Modern JavaScript features have improved my coding skills significantly. Thanks for the guide!",
+    "user_id": 4,
+    "post_id": 5
+  },
+  {
+    "content": "Express makes building APIs so much easier. This article is a great introduction.",
+    "user_id": 1,
+    "post_id": 6
+  },
+  {
+    "content": "I appreciate the step-by-step guide on React. Very helpful for beginners.",
+    "user_id": 6,
+    "post_id": 4
+  },
+  {
+    "content": "This is a fantastic overview of modern JavaScript features. Well done!",
+    "user_id": 2,
+    "post_id": 5
+  },
+  {
+    "content": "Express has been a crucial part of my development stack. Thanks for the tips!",
+    "user_id": 4,
+    "post_id": 6
+  }
+]

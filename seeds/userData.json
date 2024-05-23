@@ -1,0 +1,26 @@
+[
+  {
+    "username": "john_doe",
+    "password": "password123"
+  },
+  {
+    "username": "jane_smith",
+    "password": "password456"
+  },
+  {
+    "username": "alice_johnson",
+    "password": "password789"
+  },
+  {
+    "username": "bob_brown",
+    "password": "password101"
+  },
+  {
+    "username": "charlie_davis",
+    "password": "password102"
+  },
+  {
+    "username": "emily_evans",
+    "password": "password103"
+  }
+]

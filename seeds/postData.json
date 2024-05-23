@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Understanding JavaScript Closures",
+    "content": "JavaScript closures are a fundamental concept that every JavaScript developer should understand. Closures allow you to create functions that have access to variables from another function’s scope. This is an incredibly powerful feature that enables various programming patterns.",
+    "user_id": 1
+  },
+  {
+    "title": "Introduction to Node.js",
+    "content": "Node.js is a powerful tool for building web applications. It allows developers to use JavaScript on the server side, and it's built on the V8 JavaScript engine from Google. Node.js is asynchronous and event-driven, making it perfect for real-time applications.",
+    "user_id": 2
+  },
+  {
+    "title": "Mastering CSS Grid",
+    "content": "CSS Grid is a two-dimensional layout system for the web. It allows you to create complex layouts with simple CSS. By using grid containers and grid items, you can design responsive and adaptive layouts with ease.",
+    "user_id": 3
+  },
+  {
+    "title": "Getting Started with React",
+    "content": "React is a JavaScript library for building user interfaces. It allows developers to create large web applications that can update and render efficiently in response to data changes. React is component-based and maintained by Facebook.",
+    "user_id": 4
+  },
+  {
+    "title": "A Guide to Modern JavaScript Features",
+    "content": "JavaScript has evolved significantly over the years. Modern JavaScript (ES6+) includes many new features like let/const, arrow functions, template literals, destructuring, and more. These features make the language more powerful and easier to write.",
+    "user_id": 5
+  },
+  {
+    "title": "Building RESTful APIs with Express",
+    "content": "Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications. It’s an essential tool for creating RESTful APIs and serves as a backend server for many applications.",
+    "user_id": 6
+  }
+]
