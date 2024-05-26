@@ -1,10 +1,10 @@
 const loginHandler = async (e) => {
     e.preventDefault();
-    const user = document.querySelector('#username').value;
+    const username = document.querySelector('#username').value;
     const password = document.querySelector('#password').value;
-    const response = await fetch('/api/user/login', {
+    const response = await fetch('/api/users/login', {
         method: 'POST',
-        body: JSON.stringify({ user, password }),
+        body: JSON.stringify({ username, password }),
         headers: { 'Content-Type': 'application/json' },
     });
 
