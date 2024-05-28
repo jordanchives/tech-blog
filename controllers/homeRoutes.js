@@ -3,6 +3,7 @@ const router = require("express").Router();
 
 router.get("/", async (req, res) => {
   try {
+    console.log("homepage route");
     const postData = await Posts.findAll({
       include: [
         {
