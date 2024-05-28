@@ -1,0 +1,35 @@
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <div class="card m-2">
+        <div class="card-header">Edit Post</div>
+        <div class="card-body">
+          <form id="edit-form">
+            <div class="mb-3">
+              <label for="title" class="form-label">Title</label>
+              <input
+                type="text"
+                class="form-control"
+                id="title"
+                name="title"
+                value="{{post.title}}"
+              />
+            </div>
+            <div class="mb-3">
+              <label for="content" class="form-label">Content</label>
+              <textarea
+                class="form-control"
+                id="content"
+                name="content"
+                rows="3"
+              >{{post.content}}</textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+            <button type="button" class="btn btn-danger" id="delete">Delete</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="/js/edit-post.js"></script>
+</div>
