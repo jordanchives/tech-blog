@@ -1,4 +1,4 @@
-const { Posts, Users } = require('../models');
+const { Posts, Users, Comments } = require('../models');
 const router = require('express').Router();
 
 router.get('/', async (req, res) => {
@@ -60,8 +60,9 @@ router.get('/post/:id', async (req, res) => {
                   }
                ],
          });
-   
+         
          const post = postData.get({ plain: true });
+
          res.render('post', {
                ...post,
                loggedIn: req.session.loggedIn,

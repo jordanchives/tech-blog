@@ -1,52 +1,162 @@
 [
   {
-    "content": "Great explanation on closures! It really helped me understand the concept better.",
+    "content": "I've been using React Hooks for a while now, and they've made my code much cleaner and easier to manage. Looking forward to diving into advanced techniques!",
     "user_id": 2,
     "post_id": 1
   },
   {
-    "content": "Node.js is indeed a game-changer for web development. Thanks for the introduction!",
-    "user_id": 1,
+    "content": "Functional programming has completely changed the way I approach JavaScript development. It's amazing how much more concise and readable code becomes!",
+    "user_id": 3,
     "post_id": 2
   },
   {
-    "content": "CSS Grid has been a lifesaver for my recent projects. Excellent article!",
-    "user_id": 3,
+    "content": "Thank you for highlighting the importance of security in Node.js applications. It's a critical aspect that every developer should prioritize.",
+    "user_id": 4,
     "post_id": 3
   },
   {
-    "content": "I'm still a bit confused about closures. Could you provide more examples?",
-    "user_id": 3,
-    "post_id": 1
-  },
-  {
-    "content": "React is amazing! This guide helped me get started with my first project.",
+    "content": "Flexbox has been a game-changer for me. It's so much simpler than traditional CSS layouts!",
     "user_id": 5,
     "post_id": 4
   },
   {
-    "content": "Modern JavaScript features have improved my coding skills significantly. Thanks for the guide!",
-    "user_id": 4,
+    "content": "State management can be a challenge, especially in larger Angular projects. Looking forward to learning some best practices!",
+    "user_id": 6,
     "post_id": 5
   },
   {
-    "content": "Express makes building APIs so much easier. This article is a great introduction.",
+    "content": "Performance optimization is always a hot topic. Can't wait to see what tips you have for improving React app performance!",
     "user_id": 1,
     "post_id": 6
   },
   {
-    "content": "I appreciate the step-by-step guide on React. Very helpful for beginners.",
+    "content": "MongoDB's flexibility and scalability make it a great choice for modern applications. Excited to learn more about its features!",
+    "user_id": 2,
+    "post_id": 7
+  },
+  {
+    "content": "Real-time chat functionality is a must-have for many applications. Looking forward to seeing how Socket.io simplifies the process!",
+    "user_id": 3,
+    "post_id": 8
+  },
+  {
+    "content": "Testing is crucial for ensuring the reliability of our applications. Jest seems like a powerful tool for making testing easier and more efficient.",
+    "user_id": 4,
+    "post_id": 9
+  },
+  {
+    "content": "CI/CD is essential for speeding up the development process and ensuring code quality. Can't wait to learn more about setting up Jenkins pipelines!",
+    "user_id": 5,
+    "post_id": 10
+  },
+  {
+    "content": "I've struggled with managing state in Angular apps. Looking forward to getting some insights from your guide!",
     "user_id": 6,
+    "post_id": 5
+  },
+  {
+    "content": "Optimizing performance in React apps is always a challenge. Excited to see what strategies you recommend!",
+    "user_id": 1,
+    "post_id": 6
+  },
+  {
+    "content": "I've heard great things about MongoDB's flexibility. Looking forward to learning more about its capabilities!",
+    "user_id": 2,
+    "post_id": 7
+  },
+  {
+    "content": "Socket.io seems like a powerful tool for adding real-time functionality to web applications. Can't wait to try it out!",
+    "user_id": 3,
+    "post_id": 8
+  },
+  {
+    "content": "Testing is often overlooked but absolutely essential. Jest looks like a promising framework for simplifying the testing process.",
+    "user_id": 4,
+    "post_id": 9
+  },
+  {
+    "content": "CI/CD is crucial for delivering software quickly and reliably. Looking forward to learning more about Jenkins pipelines!",
+    "user_id": 5,
+    "post_id": 10
+  },
+  {
+    "content": "React Hooks have made building components so much more enjoyable. Looking forward to exploring advanced techniques!",
+    "user_id": 6,
+    "post_id": 1
+  },
+  {
+    "content": "Functional programming has completely changed my approach to writing JavaScript code. It's made everything so much clearer!",
+    "user_id": 1,
+    "post_id": 2
+  },
+  {
+    "content": "Security is often an afterthought in development, but it's incredibly important. Thanks for highlighting its importance!",
+    "user_id": 2,
+    "post_id": 3
+  },
+  {
+    "content": "Flexbox has been a lifesaver for my CSS layouts. Excited to learn more about its capabilities!",
+    "user_id": 3,
     "post_id": 4
   },
   {
-    "content": "This is a fantastic overview of modern JavaScript features. Well done!",
+    "content": "State management in Angular can be challenging, especially as projects grow in size. Looking forward to some insights!",
+    "user_id": 4,
+    "post_id": 5
+  },
+  {
+    "content": "Performance optimization is crucial for delivering a smooth user experience. Can't wait to see your tips for React apps!",
+    "user_id": 5,
+    "post_id": 6
+  },
+  {
+    "content": "MongoDB's scalability makes it a great choice for modern applications. Excited to learn more about its features!",
+    "user_id": 6,
+    "post_id": 7
+  },
+  {
+    "content": "Real-time chat functionality is essential for many modern applications. Looking forward to learning about Socket.io!",
+    "user_id": 1,
+    "post_id": 8
+  },
+  {
+    "content": "Testing is crucial for ensuring the reliability of our applications. Jest seems like a powerful tool for simplifying the testing process.",
+    "user_id": 2,
+    "post_id": 9
+  },
+  {
+    "content": "CI/CD is essential for streamlining the development process and ensuring code quality. Excited to learn more about Jenkins pipelines!",
+    "user_id": 3,
+    "post_id": 10
+  },
+  {
+    "content": "React Hooks have simplified my React development workflow tremendously. Looking forward to exploring advanced techniques!",
+    "user_id": 4,
+    "post_id": 1
+  },
+  {
+    "content": "Functional programming has made my JavaScript code much more maintainable. It's like a breath of fresh air!",
+    "user_id": 5,
+    "post_id": 2
+  },
+  {
+    "content": "Security is a topic that doesn't get enough attention in the development community. Thanks for raising awareness!",
+    "user_id": 6,
+    "post_id": 3
+  },
+  {
+    "content": "Flexbox has revolutionized the way I approach CSS layouts. Looking forward to mastering it!",
+    "user_id": 1,
+    "post_id": 4
+  },
+  {
+    "content": "State management can be a headache in Angular apps. Can't wait to learn some best practices!",
     "user_id": 2,
     "post_id": 5
   },
   {
-    "content": "Express has been a crucial part of my development stack. Thanks for the tips!",
-    "user_id": 4,
+    "content": "Performance optimization is crucial for delivering a fast and responsive user experience. Excited to see your tips for React apps!",
+    "user_id": 3,
     "post_id": 6
   }
 ]

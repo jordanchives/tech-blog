@@ -1,5 +1,6 @@
 const signupHandler = async (event) => {
     event.preventDefault();
+    console.log('signupHandler');
     const username = document.querySelector('#username').value.trim();
     const password = document.querySelector('#password').value.trim();
     if (username && password) {
@@ -16,4 +17,4 @@ const signupHandler = async (event) => {
     }
 };
 
-document.querySelector('.signup-form').addEventListener('submit', signupHandler);
+document.querySelector('#signup-form').addEventListener('submit', signupHandler);

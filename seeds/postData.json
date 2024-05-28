@@ -1,32 +1,52 @@
 [
   {
-    "title": "Understanding JavaScript Closures",
-    "content": "JavaScript closures are a fundamental concept that every JavaScript developer should understand. Closures allow you to create functions that have access to variables from another function’s scope. This is an incredibly powerful feature that enables various programming patterns.",
-    "user_id": 1
-  },
-  {
-    "title": "Introduction to Node.js",
-    "content": "Node.js is a powerful tool for building web applications. It allows developers to use JavaScript on the server side, and it's built on the V8 JavaScript engine from Google. Node.js is asynchronous and event-driven, making it perfect for real-time applications.",
-    "user_id": 2
-  },
-  {
-    "title": "Mastering CSS Grid",
-    "content": "CSS Grid is a two-dimensional layout system for the web. It allows you to create complex layouts with simple CSS. By using grid containers and grid items, you can design responsive and adaptive layouts with ease.",
-    "user_id": 3
-  },
-  {
-    "title": "Getting Started with React",
-    "content": "React is a JavaScript library for building user interfaces. It allows developers to create large web applications that can update and render efficiently in response to data changes. React is component-based and maintained by Facebook.",
+    "title": "Advanced Techniques in React Hooks",
+    "content": "React Hooks provide a way to use state and other React features in functional components. In this article, we'll explore advanced techniques for using Hooks, including custom Hooks, useContext, and useReducer. Understanding these techniques will help you build more sophisticated React applications.",
     "user_id": 4
   },
   {
-    "title": "A Guide to Modern JavaScript Features",
-    "content": "JavaScript has evolved significantly over the years. Modern JavaScript (ES6+) includes many new features like let/const, arrow functions, template literals, destructuring, and more. These features make the language more powerful and easier to write.",
+    "title": "The Power of Functional Programming in JavaScript",
+    "content": "Functional programming is a paradigm that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data. JavaScript supports many functional programming concepts, such as higher-order functions, pure functions, and immutability. Learning how to leverage functional programming techniques can lead to cleaner, more maintainable code.",
+    "user_id": 2
+  },
+  {
+    "title": "Securing Node.js Applications with Authentication and Authorization",
+    "content": "Security is a critical aspect of building Node.js applications. In this guide, we'll cover best practices for implementing authentication and authorization in Node.js applications. Topics include using JSON Web Tokens (JWT) for authentication, implementing role-based access control (RBAC), and protecting against common security vulnerabilities.",
+    "user_id": 6
+  },
+  {
+    "title": "Responsive Web Design with CSS Flexbox",
+    "content": "CSS Flexbox is a layout model that allows you to design flexible and responsive web layouts without the need for complex CSS or JavaScript. In this tutorial, we'll explore how to use Flexbox to create responsive layouts that adapt to different screen sizes and devices. Flexbox is a powerful tool for modern web design.",
+    "user_id": 3
+  },
+  {
+    "title": "State Management in Angular: A Comprehensive Guide",
+    "content": "State management is a crucial aspect of building large-scale Angular applications. In this comprehensive guide, we'll explore different state management techniques in Angular, including using services, RxJS, and NgRx. By mastering state management, you can build more scalable and maintainable Angular applications.",
     "user_id": 5
   },
   {
-    "title": "Building RESTful APIs with Express",
-    "content": "Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications. It’s an essential tool for creating RESTful APIs and serves as a backend server for many applications.",
+    "title": "Optimizing Performance in React Applications",
+    "content": "Performance optimization is essential for delivering a fast and responsive user experience in React applications. In this article, we'll discuss various techniques for optimizing performance in React, including code splitting, memoization, and virtualization. By following these best practices, you can ensure your React applications perform efficiently.",
+    "user_id": 1
+  },
+  {
+    "title": "MongoDB: A Scalable NoSQL Database",
+    "content": "MongoDB is a popular NoSQL database that provides scalability, flexibility, and performance for modern applications. In this overview, we'll explore the key features of MongoDB, including document-based storage, flexible schema design, and horizontal scalability. MongoDB is a versatile database solution for a wide range of use cases.",
+    "user_id": 2
+  },
+  {
+    "title": "Building Real-Time Chat Applications with Socket.io",
+    "content": "Socket.io is a JavaScript library that enables real-time, bidirectional communication between web clients and servers. In this tutorial, we'll learn how to use Socket.io to build real-time chat applications with features like instant messaging, presence detection, and room-based communication. Socket.io is an essential tool for building interactive web applications.",
     "user_id": 6
+  },
+  {
+    "title": "Testing JavaScript Applications with Jest",
+    "content": "Jest is a popular JavaScript testing framework developed by Facebook. It provides a simple and intuitive API for writing and running tests, along with features like test runners, mocking, and code coverage. In this tutorial, we'll explore how to use Jest to write comprehensive tests for JavaScript applications, including React components and Node.js modules.",
+    "user_id": 4
+  },
+  {
+    "title": "Continuous Integration and Deployment (CI/CD) with Jenkins",
+    "content": "Jenkins is an open-source automation server that enables continuous integration and continuous deployment (CI/CD) of software projects. In this guide, we'll learn how to set up Jenkins pipelines for automating the build, test, and deployment processes of web applications. With Jenkins CI/CD pipelines, you can streamline your development workflow and deliver high-quality software faster.",
+    "user_id": 3
   }
 ]
